@@ -1,6 +1,6 @@
 # Smartify
-IOT Based Home Automation Project using Google Firebase ,Android App &amp; NodeMCU ESP8266.
-In this project, we will learn how to make IoT Based Home Automation Project using Google Firebase & NodeMCU ESP8266. One of the most common & popular hobby projects you will come across the internet is Home Automation Project. By Home Automation we mean controlling home appliances without a manual switch. When connected with the Internet, home devices are an important constituent of the Internet of Things (“IoT”) Application.![iot-project-google-firebase-controlling-led-using-android-app](https://user-images.githubusercontent.com/78377154/111585465-5ba91400-87e5-11eb-9361-007666f087d1.png)
+IOT Based Home Automation Project using Google Firebase, Android App &amp; NodeMCU ESP8266.
+In this project, we have learnt how to make IoT Based Home Automation Project using Google Firebase & NodeMCU ESP8266. One of the most common & popular hobby projects you will come across the internet is Home Automation Project. By Home Automation we mean controlling home appliances without a manual switch. When connected with the Internet, home devices are an important constituent of the Internet of Things (“IoT”) Application.![iot-project-google-firebase-controlling-led-using-android-app](https://user-images.githubusercontent.com/78377154/111585465-5ba91400-87e5-11eb-9361-007666f087d1.png)
 
 
 Hardwere used:
@@ -161,5 +161,5 @@ Making Android App
 
 <img width="296" alt="Screenshot 2021-03-18 at 12 39 13 PM" src="https://user-images.githubusercontent.com/78377154/111586526-f81fe600-87e6-11eb-8bec-5ba8e0c6579c.png">
 
-We have succesfully complete our Project.
+We have succesfully completed our Project.
 
