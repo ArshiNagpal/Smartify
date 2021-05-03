@@ -138,11 +138,11 @@ Setting up Nodemcu
 
 
 Setting Up firebase:
-Step 1: Creating Fairbase Account
+Step 1: Creating Firebase Account
 Step 2: Then Show Like This Interface and Give Project Name and Select Country Name
 Step 3: Hear I Select Project Name Home Automation and Select My Country Then Press Create
 Step 4: After a Moment Show This Interface Click on Contention
-Step 5: Then Go to Get Started with Realtime database
+Step 5: Then Go to Get Started with real-time database
 
 <img width="1280" alt="Screenshot 2021-03-18 at 12 15 45 PM" src="https://user-images.githubusercontent.com/78377154/111584390-c8bbaa00-87e3-11eb-88fd-7c4e6d0edb7d.png">
 
